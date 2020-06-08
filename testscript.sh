@@ -5,4 +5,5 @@ echo "$NUMBER"
 echo "This was added"
 echo "Decond attempt:"
 echo "$NUMBER"
+echo "1 2 3"
 
